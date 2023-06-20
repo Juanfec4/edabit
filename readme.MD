@@ -1,0 +1,1 @@
+# Edabit platform challenge solutions
